@@ -1,2 +1,16 @@
-# Classical-problems
-A list of problems to solve in any programming language as from basic to advance.
+# Table of Contents
+
+    Numbers
+    Classic Algorithms
+    Graph
+    Data Structures
+    Text
+    Networking
+    Classes
+    Threading
+    Web
+    Files
+    Databases
+    Graphics and Multimedia
+    Security
+
